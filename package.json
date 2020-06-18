@@ -1,0 +1,12 @@
+{
+    "name": "jsonforeach",
+    "version": "1.0.0",
+    "description": "JSON forEach tutorial shows how to loop over a JSON array in JavaScript. In this tutorial we use JSON server to handle test data.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Sophie",
+    "license": "MIT"
+}
